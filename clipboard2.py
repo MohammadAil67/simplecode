@@ -1,6 +1,6 @@
-import sys
 import clipboard
 import json
+import sys
 from pprint import PrettyPrinter
 
 printer = PrettyPrinter()
